@@ -1,0 +1,14 @@
+Crests & Aevian Forms Mod Changelog
+13.5.6.CrestsAndAevianFormsMod.0.00
+- Added the following crests
+	-Kantoan Ninetales
+	-Alolan Ninetales
+	-Kantoan Arcanine
+	-Snorlax
+	-Bibarel
+	-Chesnaught
+	-Both forms of Avalugg (Their Crest has the same ability for both of them)
+	-Primarina
+	-Togekiss
+	-Swampert
+- Added a Crests saleswoman in the East Gearan Laboratory. She's toward the top of the entrance area of the lab, somewhere to the left of the Nurse Joy.
